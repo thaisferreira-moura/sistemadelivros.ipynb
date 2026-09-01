@@ -24,7 +24,7 @@
 
 ## 📄 Descrição do entregável
 
-* sistema_livros.py (Arquivo principal do sistema)
+* SistemaDeLivros.ipynb (Arquivo principal do sistema)
 * README.md (Documentação do projeto)
 
 ---
@@ -67,7 +67,7 @@ O sistema possui uma interface executada diretamente pelo terminal, apresentando
 
 2 - Abrir a pasta do projeto no **VSCode** ou outro editor de código <br>
 
-3 - Abrir o arquivo `sistema_livros.py` <br>
+3 - Abrir o arquivo `SistemaDeLivros.ipynb` <br>
 
 4 - Executar o arquivo utilizando o Python
 
