@@ -53,7 +53,7 @@ O sistema possui uma interface executada diretamente pelo terminal, apresentando
 
 <!-- AQUI VOCÊ PODE COLOCAR UM PRINT DO TERMINAL -->
 
-![Sistema de Livros](CAMINHO_DA_SUA_IMAGEM)
+![Sistema de Livros](https://github.com/thaisferreira-moura/sistemadelivros/blob/main/pr%C3%A9%20vizualiza%C3%A7%C3%A3o%20sistemadelivros.png)
 
 ---
 
